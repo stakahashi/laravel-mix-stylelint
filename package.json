@@ -1,0 +1,38 @@
+{
+  "name": "@stakahashi/laravel-mix-stylelint",
+  "version": "0.0.4",
+  "description": "A Laravel Mix extension for stylelint support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "author": "Shunsuke Takahashi",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-mix": "^2.1.11",
+    "stylelint-webpack-plugin": "^0.10.5"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stakahashi/laravel-mix-stylelint.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "stylelint",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/stakahashi/laravel-mix-stylelint/issues"
+  },
+  "homepage": "https://github.com/stakahashi/laravel-mix-stylelint#readme"
+}
