@@ -1,4 +1,4 @@
-# Laravel Mix Eslint
+# Laravel Mix stylelint
 
 [![npm version](https://badge.fury.io/js/%40stakahashi%2Flaravel-mix-stylelint.svg)](https://badge.fury.io/js/%40stakahashi%2Flaravel-mix-stylelint)
 
