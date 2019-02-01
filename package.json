@@ -1,6 +1,6 @@
 {
   "name": "@stakahashi/laravel-mix-stylelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Laravel Mix extension for stylelint support.",
   "main": "index.js",
   "scripts": {
